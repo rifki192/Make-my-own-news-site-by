@@ -1,4 +1,4 @@
-# Make-my-own-news-site-by-hacking
+# Make-my-own-news-site-by
 ## MAKER PARTY,hack
 This document is made by [gitfab](http://gitfab.org)
 ---
